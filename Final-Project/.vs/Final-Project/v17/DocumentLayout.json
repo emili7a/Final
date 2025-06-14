@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -50,41 +54,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Final-Project\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:46:29.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAgwHcBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-12T13:37:48.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T13:37:36.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T13:37:36.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -93,63 +109,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:36:32.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T13:36:32.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
               "RelativeDocumentMoniker": "Final-Project\\Program.cs",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
               "RelativeToolTip": "Final-Project\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:35:05.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T13:35:05.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Final-Project\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "Final-Project\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-12T13:34:38.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T13:34:38.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Final-Project\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAJwAAAAAAAAAAAAAALAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T13:15:58.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T13:15:58.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Final-Project\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAmwE8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -157,34 +169,28 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Final-Project\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T13:20:30.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T13:20:30.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Final-Project\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Final-Project\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:15:43.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T13:15:43.145Z"
             }
           ]
         }

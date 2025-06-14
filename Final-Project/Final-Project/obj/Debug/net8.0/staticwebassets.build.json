@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "boJgJnl25UsbzLtHrgu98TTuOFRsTNO+UFHs8rFOjak=",
+  "Hash": "YLx47V4j4LaHiJmWYT5TJCHfReUnCdmt7HnkHEa5moY=",
   "Source": "Final-Project",
   "BasePath": "_content/Final-Project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Final-Project\\wwwroot",
       "Source": "Final-Project",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\authour-img.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\authour-img.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/authour-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\authour-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\banner.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\banner.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/banner#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\blog-image-4.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\blog-image-4.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/blog-image-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blog-image-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\img_07.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\img_07.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/img_07#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\img_07.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_01-840x1024.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_01-840x1024.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/postimg_01-840x1024#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\postimg_01-840x1024.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_02-683x1024.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_02-683x1024.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/postimg_02-683x1024#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\postimg_02-683x1024.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_04.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_04.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/postimg_04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\postimg_04.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_05-683x1024.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_05-683x1024.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/postimg_05-683x1024#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\postimg_05-683x1024.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_06.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_06.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/postimg_06#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\postimg_06.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_07.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_07.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/blog/postimg_07#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\postimg_07.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\logo.png",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\logo.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\menu-bg-img.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\menu-bg-img.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/menu-bg-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\menu-bg-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\mini-cart-img.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\mini-cart-img.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/mini-cart-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\mini-cart-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img1.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img1.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img1.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img2.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img2.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img2.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img3.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img3.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img3.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img4.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img4.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img4.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img5.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img5.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img5.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img6.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img6.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img6.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img7.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img7.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img7.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img8.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img8.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/product-img8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\product-img8.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\reservation-img.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\reservation-img.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/reservation-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\reservation-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-1.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-1.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/restaurant-img-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\restaurant-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-2.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-2.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/restaurant-img-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\restaurant-img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_01.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_01.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/slide_01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\slide_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_02.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_02.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/slide_02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\slide_02.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_logo.png",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_logo.png",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/slide_logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\slide_logo.png"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img1.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img1.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/specialties-img1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\specialties-img1.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img2.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img2.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/specialties-img2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\specialties-img2.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-parra-img.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-parra-img.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/home/specialties-parra-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\home\\specialties-parra-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_09.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_09.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/menu/img_09#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\menu\\img_09.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_10.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_10.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/menu/img_10#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\menu\\img_10.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_11.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_11.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/menu/img_11#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\menu\\img_11.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_12.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_12.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/menu/img_12#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\menu\\img_12.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_13.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_13.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/menu/img_13#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\menu\\img_13.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\reservation\\form-img.jpg",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\reservation\\form-img.jpg",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/images/reservation/form-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\reservation\\form-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\common.js",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\common.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/js/common#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\common.js"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\home.js",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\home.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/js/home#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\home.js"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\jquery.js",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\jquery.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/js/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\product-detail.js",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\product-detail.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/js/product-detail#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\product-detail.js"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\reservation.js",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\reservation.js",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/js/reservation#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\reservation.js"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_blog.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_blog.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_blog#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_cart.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_cart.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_cart#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_cart.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_checkout.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_checkout.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_checkout#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_checkout.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_common.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_common.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_common#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_common.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_contact.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_contact.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_contact#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_contact.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_home.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_home.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_home#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_home.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_login.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_login.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_login#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_login.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_menu.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_menu.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_menu#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_menu.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_order.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_order.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_order#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_order.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_register.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_register.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_register#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_register.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_reservation.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_reservation.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_reservation#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_reservation.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_shop#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_shop.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop-detail.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop-detail.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/_shop-detail#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\_shop-detail.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/main#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\main.css"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css.map",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css.map",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/main.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\main.css.map"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.scss",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.scss",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/main#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\styles\\main.scss"
     },
     {
-      "Identity": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\reservation.css",
+      "Identity": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\reservation.css",
       "SourceId": "Final-Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\",
       "BasePath": "_content/Final-Project",
       "RelativePath": "assets/styles/reservation#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1238,7 +1238,7 @@
   "Endpoints": [
     {
       "Route": "assets/images/blog/authour-img.hbybgr0j2h.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\authour-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\authour-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1259,7 +1259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1283,7 +1283,7 @@
     },
     {
       "Route": "assets/images/blog/authour-img.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\authour-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\authour-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1304,7 +1304,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1320,7 +1320,7 @@
     },
     {
       "Route": "assets/images/blog/banner.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\banner.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\banner.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1341,7 +1341,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1357,7 +1357,7 @@
     },
     {
       "Route": "assets/images/blog/banner.lkdu7ecfqf.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\banner.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\banner.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1378,7 +1378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1402,7 +1402,7 @@
     },
     {
       "Route": "assets/images/blog/blog-image-4.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\blog-image-4.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\blog-image-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1423,7 +1423,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1439,7 +1439,7 @@
     },
     {
       "Route": "assets/images/blog/blog-image-4.zg4plmzn65.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\blog-image-4.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\blog-image-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1460,7 +1460,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1484,7 +1484,7 @@
     },
     {
       "Route": "assets/images/blog/img_07.c0fdagk4qc.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\img_07.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\img_07.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1505,7 +1505,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1529,7 +1529,7 @@
     },
     {
       "Route": "assets/images/blog/img_07.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\img_07.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\img_07.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1550,7 +1550,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1566,7 +1566,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_01-840x1024.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_01-840x1024.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_01-840x1024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1587,7 +1587,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1603,7 +1603,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_01-840x1024.u9paeyxqum.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_01-840x1024.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_01-840x1024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1624,7 +1624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1648,7 +1648,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_02-683x1024.fqvidatjzc.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_02-683x1024.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_02-683x1024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1669,7 +1669,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1693,7 +1693,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_02-683x1024.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_02-683x1024.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_02-683x1024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1714,7 +1714,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1730,7 +1730,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_04.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_04.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1751,7 +1751,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1767,7 +1767,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_04.t0r5rnvpgr.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_04.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1788,7 +1788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1812,7 +1812,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_05-683x1024.60cwkro70v.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_05-683x1024.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_05-683x1024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1833,7 +1833,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1857,7 +1857,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_05-683x1024.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_05-683x1024.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_05-683x1024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1878,7 +1878,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1894,7 +1894,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_06.6ctprrylmf.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_06.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1915,7 +1915,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1939,7 +1939,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_06.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_06.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1960,7 +1960,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1976,7 +1976,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_07.fj23qi7jgk.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_07.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_07.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1997,7 +1997,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2021,7 +2021,7 @@
     },
     {
       "Route": "assets/images/blog/postimg_07.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_07.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\blog\\postimg_07.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2042,7 +2042,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2058,7 +2058,7 @@
     },
     {
       "Route": "assets/images/home/logo.png",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\logo.png",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2079,7 +2079,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2095,7 +2095,7 @@
     },
     {
       "Route": "assets/images/home/logo.snw8hcxiz4.png",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\logo.png",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2116,7 +2116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2140,7 +2140,7 @@
     },
     {
       "Route": "assets/images/home/menu-bg-img.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\menu-bg-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\menu-bg-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2161,7 +2161,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2177,7 +2177,7 @@
     },
     {
       "Route": "assets/images/home/menu-bg-img.sb1puh7pql.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\menu-bg-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\menu-bg-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2198,7 +2198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2222,7 +2222,7 @@
     },
     {
       "Route": "assets/images/home/mini-cart-img.1azuugljnw.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\mini-cart-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\mini-cart-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2243,7 +2243,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2267,7 +2267,7 @@
     },
     {
       "Route": "assets/images/home/mini-cart-img.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\mini-cart-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\mini-cart-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2288,7 +2288,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2304,7 +2304,7 @@
     },
     {
       "Route": "assets/images/home/product-img1.8tnwhcy5gh.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img1.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2325,7 +2325,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2349,7 +2349,7 @@
     },
     {
       "Route": "assets/images/home/product-img1.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img1.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2370,7 +2370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2386,7 +2386,7 @@
     },
     {
       "Route": "assets/images/home/product-img2.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img2.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2407,7 +2407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2423,7 +2423,7 @@
     },
     {
       "Route": "assets/images/home/product-img2.r0sad88n5w.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img2.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2444,7 +2444,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2468,7 +2468,7 @@
     },
     {
       "Route": "assets/images/home/product-img3.7ej38wsp78.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img3.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2489,7 +2489,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2513,7 +2513,7 @@
     },
     {
       "Route": "assets/images/home/product-img3.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img3.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2534,7 +2534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2550,7 +2550,7 @@
     },
     {
       "Route": "assets/images/home/product-img4.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img4.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2571,7 +2571,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2587,7 +2587,7 @@
     },
     {
       "Route": "assets/images/home/product-img4.x4gck2w4ui.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img4.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2608,7 +2608,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2632,7 +2632,7 @@
     },
     {
       "Route": "assets/images/home/product-img5.g3rjyub94f.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img5.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2653,7 +2653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2677,7 +2677,7 @@
     },
     {
       "Route": "assets/images/home/product-img5.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img5.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2698,7 +2698,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2714,7 +2714,7 @@
     },
     {
       "Route": "assets/images/home/product-img6.fd00tlhojx.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img6.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2735,7 +2735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2759,7 +2759,7 @@
     },
     {
       "Route": "assets/images/home/product-img6.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img6.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2780,7 +2780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2796,7 +2796,7 @@
     },
     {
       "Route": "assets/images/home/product-img7.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img7.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2817,7 +2817,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2833,7 +2833,7 @@
     },
     {
       "Route": "assets/images/home/product-img7.vn2au1z49l.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img7.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2854,7 +2854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2878,7 +2878,7 @@
     },
     {
       "Route": "assets/images/home/product-img8.hzabl4qxl5.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img8.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2899,7 +2899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2923,7 +2923,7 @@
     },
     {
       "Route": "assets/images/home/product-img8.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img8.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\product-img8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2944,7 +2944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
     },
     {
       "Route": "assets/images/home/reservation-img.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\reservation-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\reservation-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2981,7 +2981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2997,7 +2997,7 @@
     },
     {
       "Route": "assets/images/home/reservation-img.mls3l5ff4i.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\reservation-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\reservation-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3018,7 +3018,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3042,7 +3042,7 @@
     },
     {
       "Route": "assets/images/home/restaurant-img-1.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-1.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3063,7 +3063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3079,7 +3079,7 @@
     },
     {
       "Route": "assets/images/home/restaurant-img-1.o4uyr2o78x.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-1.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3100,7 +3100,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3124,7 +3124,7 @@
     },
     {
       "Route": "assets/images/home/restaurant-img-2.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-2.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3145,7 +3145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3161,7 +3161,7 @@
     },
     {
       "Route": "assets/images/home/restaurant-img-2.sa15phbr8q.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-2.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\restaurant-img-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3182,7 +3182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3206,7 +3206,7 @@
     },
     {
       "Route": "assets/images/home/slide_01.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_01.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3227,7 +3227,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3243,7 +3243,7 @@
     },
     {
       "Route": "assets/images/home/slide_01.r2rjfu5z1l.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_01.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3264,7 +3264,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3288,7 +3288,7 @@
     },
     {
       "Route": "assets/images/home/slide_02.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_02.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3309,7 +3309,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3325,7 +3325,7 @@
     },
     {
       "Route": "assets/images/home/slide_02.tv1kgc5xy5.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_02.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3346,7 +3346,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3370,7 +3370,7 @@
     },
     {
       "Route": "assets/images/home/slide_logo.png",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_logo.png",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3391,7 +3391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3407,7 +3407,7 @@
     },
     {
       "Route": "assets/images/home/slide_logo.yiz19lk10o.png",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_logo.png",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\slide_logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3428,7 +3428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3452,7 +3452,7 @@
     },
     {
       "Route": "assets/images/home/specialties-img1.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img1.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3473,7 +3473,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3489,7 +3489,7 @@
     },
     {
       "Route": "assets/images/home/specialties-img1.we04rqyimi.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img1.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3510,7 +3510,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3534,7 +3534,7 @@
     },
     {
       "Route": "assets/images/home/specialties-img2.5wcst27uve.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img2.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3555,7 +3555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3579,7 +3579,7 @@
     },
     {
       "Route": "assets/images/home/specialties-img2.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img2.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-img2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3600,7 +3600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3616,7 +3616,7 @@
     },
     {
       "Route": "assets/images/home/specialties-parra-img.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-parra-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-parra-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3637,7 +3637,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3653,7 +3653,7 @@
     },
     {
       "Route": "assets/images/home/specialties-parra-img.lyj7xez5eo.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-parra-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\home\\specialties-parra-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3674,7 +3674,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3698,7 +3698,7 @@
     },
     {
       "Route": "assets/images/menu/img_09.6bnog0t5lm.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_09.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_09.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3719,7 +3719,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3743,7 +3743,7 @@
     },
     {
       "Route": "assets/images/menu/img_09.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_09.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_09.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3764,7 +3764,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3780,7 +3780,7 @@
     },
     {
       "Route": "assets/images/menu/img_10.94f4xqe7cw.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_10.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3801,7 +3801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3825,7 +3825,7 @@
     },
     {
       "Route": "assets/images/menu/img_10.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_10.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3846,7 +3846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3862,7 +3862,7 @@
     },
     {
       "Route": "assets/images/menu/img_11.16ssxupr7t.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_11.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3883,7 +3883,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3907,7 +3907,7 @@
     },
     {
       "Route": "assets/images/menu/img_11.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_11.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3928,7 +3928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3944,7 +3944,7 @@
     },
     {
       "Route": "assets/images/menu/img_12.3m056mg63l.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_12.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3965,7 +3965,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3989,7 +3989,7 @@
     },
     {
       "Route": "assets/images/menu/img_12.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_12.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4010,7 +4010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4026,7 +4026,7 @@
     },
     {
       "Route": "assets/images/menu/img_13.cmla7ep4is.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_13.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4047,7 +4047,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4071,7 +4071,7 @@
     },
     {
       "Route": "assets/images/menu/img_13.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_13.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\menu\\img_13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4092,7 +4092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4108,7 +4108,7 @@
     },
     {
       "Route": "assets/images/reservation/form-img.d2u2mb8n3h.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\reservation\\form-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\reservation\\form-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4129,7 +4129,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4153,7 +4153,7 @@
     },
     {
       "Route": "assets/images/reservation/form-img.jpg",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\reservation\\form-img.jpg",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\images\\reservation\\form-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4174,7 +4174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4190,7 +4190,7 @@
     },
     {
       "Route": "assets/js/common.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\common.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\common.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4211,7 +4211,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4227,7 +4227,7 @@
     },
     {
       "Route": "assets/js/common.qwtm6n3tj6.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\common.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\common.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4248,7 +4248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4272,7 +4272,7 @@
     },
     {
       "Route": "assets/js/home.8ppitenchj.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\home.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4293,7 +4293,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4317,7 +4317,7 @@
     },
     {
       "Route": "assets/js/home.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\home.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4338,7 +4338,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4354,7 +4354,7 @@
     },
     {
       "Route": "assets/js/jquery.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\jquery.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4375,7 +4375,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4391,7 +4391,7 @@
     },
     {
       "Route": "assets/js/jquery.sdzwkgw0wm.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\jquery.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4412,7 +4412,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4436,7 +4436,7 @@
     },
     {
       "Route": "assets/js/product-detail.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\product-detail.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\product-detail.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4457,7 +4457,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4473,7 +4473,7 @@
     },
     {
       "Route": "assets/js/product-detail.xzj9md1cma.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\product-detail.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\product-detail.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4494,7 +4494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4518,7 +4518,7 @@
     },
     {
       "Route": "assets/js/reservation.ile59stz8e.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\reservation.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\reservation.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4539,7 +4539,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4563,7 +4563,7 @@
     },
     {
       "Route": "assets/js/reservation.js",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\reservation.js",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\js\\reservation.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4584,7 +4584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4600,7 +4600,7 @@
     },
     {
       "Route": "assets/styles/_blog.33raos9cgz.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_blog.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_blog.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4621,7 +4621,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4645,7 +4645,7 @@
     },
     {
       "Route": "assets/styles/_blog.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_blog.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_blog.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4666,7 +4666,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4682,7 +4682,7 @@
     },
     {
       "Route": "assets/styles/_cart.89nns90j35.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_cart.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_cart.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4703,7 +4703,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4727,7 +4727,7 @@
     },
     {
       "Route": "assets/styles/_cart.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_cart.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_cart.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4748,7 +4748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4764,7 +4764,7 @@
     },
     {
       "Route": "assets/styles/_checkout.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_checkout.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_checkout.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4785,7 +4785,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4801,7 +4801,7 @@
     },
     {
       "Route": "assets/styles/_checkout.zb63px90t7.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_checkout.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_checkout.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4822,7 +4822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4846,7 +4846,7 @@
     },
     {
       "Route": "assets/styles/_common.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_common.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_common.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4867,7 +4867,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4883,7 +4883,7 @@
     },
     {
       "Route": "assets/styles/_common.umclamiwfb.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_common.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_common.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4904,7 +4904,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4928,7 +4928,7 @@
     },
     {
       "Route": "assets/styles/_contact.haa28htovp.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_contact.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_contact.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4949,7 +4949,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4973,7 +4973,7 @@
     },
     {
       "Route": "assets/styles/_contact.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_contact.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_contact.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4994,7 +4994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5010,7 +5010,7 @@
     },
     {
       "Route": "assets/styles/_home.eybon54ebj.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_home.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_home.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5031,7 +5031,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5055,7 +5055,7 @@
     },
     {
       "Route": "assets/styles/_home.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_home.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_home.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5076,7 +5076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5092,7 +5092,7 @@
     },
     {
       "Route": "assets/styles/_login.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_login.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_login.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5113,7 +5113,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5129,7 +5129,7 @@
     },
     {
       "Route": "assets/styles/_login.u6sgzcewa4.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_login.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_login.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5150,7 +5150,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5174,7 +5174,7 @@
     },
     {
       "Route": "assets/styles/_menu.4jwi20ukih.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_menu.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_menu.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5195,7 +5195,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5219,7 +5219,7 @@
     },
     {
       "Route": "assets/styles/_menu.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_menu.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_menu.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5240,7 +5240,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5256,7 +5256,7 @@
     },
     {
       "Route": "assets/styles/_order.mys45jqwvk.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_order.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_order.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5277,7 +5277,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5301,7 +5301,7 @@
     },
     {
       "Route": "assets/styles/_order.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_order.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_order.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5322,7 +5322,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5338,7 +5338,7 @@
     },
     {
       "Route": "assets/styles/_register.ah4ercyt9n.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_register.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_register.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5359,7 +5359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5383,7 +5383,7 @@
     },
     {
       "Route": "assets/styles/_register.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_register.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_register.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5404,7 +5404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5420,7 +5420,7 @@
     },
     {
       "Route": "assets/styles/_reservation.b93cnvwdia.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_reservation.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_reservation.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5441,7 +5441,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5465,7 +5465,7 @@
     },
     {
       "Route": "assets/styles/_reservation.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_reservation.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_reservation.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5486,7 +5486,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5502,7 +5502,7 @@
     },
     {
       "Route": "assets/styles/_shop.i4640odbod.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5523,7 +5523,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5547,7 +5547,7 @@
     },
     {
       "Route": "assets/styles/_shop.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5568,7 +5568,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5584,7 +5584,7 @@
     },
     {
       "Route": "assets/styles/_shop-detail.6sa4lgmur8.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop-detail.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop-detail.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5605,7 +5605,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5629,7 +5629,7 @@
     },
     {
       "Route": "assets/styles/_shop-detail.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop-detail.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\_shop-detail.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5650,7 +5650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5666,7 +5666,7 @@
     },
     {
       "Route": "assets/styles/main.24zwhw5wm2.css",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5687,7 +5687,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5711,7 +5711,7 @@
     },
     {
       "Route": "assets/styles/main.css",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5732,7 +5732,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5748,7 +5748,7 @@
     },
     {
       "Route": "assets/styles/main.css.map",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css.map",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5769,7 +5769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5785,7 +5785,7 @@
     },
     {
       "Route": "assets/styles/main.css.y30y9a5erq.map",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css.map",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5806,7 +5806,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5830,7 +5830,7 @@
     },
     {
       "Route": "assets/styles/main.ntikgi4026.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5851,7 +5851,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5875,7 +5875,7 @@
     },
     {
       "Route": "assets/styles/main.scss",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.scss",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\main.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5896,7 +5896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5912,7 +5912,7 @@
     },
     {
       "Route": "assets/styles/reservation.5ipweew5fc.css",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\reservation.css",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\reservation.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5933,7 +5933,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5957,7 +5957,7 @@
     },
     {
       "Route": "assets/styles/reservation.css",
-      "AssetFile": "C:\\Users\\CLASSTIME\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\reservation.css",
+      "AssetFile": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\wwwroot\\assets\\styles\\reservation.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5978,7 +5978,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 12:59:42 GMT"
+          "Value": "Fri, 13 Jun 2025 10:22:18 GMT"
         },
         {
           "Name": "Cache-Control",
