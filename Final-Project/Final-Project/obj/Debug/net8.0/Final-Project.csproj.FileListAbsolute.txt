@@ -522,3 +522,13 @@ C:\Users\Azer\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\refint\
 C:\Users\Azer\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.pdb
 C:\Users\Azer\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.genruntimeconfig.cache
 C:\Users\Azer\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\ref\Final-Project.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.sourcelink.json
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.MvcApplicationPartsAssemblyInfo.cs

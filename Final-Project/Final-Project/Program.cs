@@ -1,7 +1,11 @@
+using Final_Project.DataAccessLayer;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<DannyDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("default")));
 
 var app = builder.Build();
 
@@ -21,7 +25,7 @@ app.UseRouting();
 app.UseAuthorization();
 app.MapControllerRoute(
            name: "areas",
-           pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+           pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
          );
 
 app.MapControllerRoute(

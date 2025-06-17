@@ -1,45 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\validators\\foodvalidators\\foodupdatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\foodvalidators\\foodupdatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\validators\\foodvalidators\\foodcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\foodvalidators\\foodcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\viewmodels\\commonvm\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\commonvm\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Migrations\\20250617112113_Danny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final-Project\\Migrations\\20250617112113_Danny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\azer\\desktop\\final\\final-project\\final-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\dataaccesslayer\\dannydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\dataaccesslayer\\dannydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\classtime\\desktop\\final\\final-project\\final-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -50,129 +114,345 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodUpdateVMValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs*",
+              "RelativeToolTip": "Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:50:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodCreateVMValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs*",
+              "RelativeToolTip": "Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:46:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommonVM\\BaseVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CommonVM\\BaseVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommonVM\\BaseVM.cs*",
+              "RelativeToolTip": "Final-Project\\ViewModels\\CommonVM\\BaseVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:42:08.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T13:37:48.693Z"
+              "Title": "FoodUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs*",
+              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:39:31.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "Title": "FoodGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs*",
+              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:39:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs*",
+              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:38:59.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250617112113_Danny.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Migrations\\20250617112113_Danny.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Migrations\\20250617112113_Danny.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Migrations\\20250617112113_Danny.cs",
+              "RelativeToolTip": "Final-Project\\Migrations\\20250617112113_Danny.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T13:37:36.308Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:21:14.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Final-Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\appsettings.json",
+              "RelativeToolTip": "Final-Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T10:24:53.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\AppUser.cs",
+              "RelativeToolTip": "Final-Project\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:14:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Comment.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:59:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\CartItem.cs",
+              "RelativeToolTip": "Final-Project\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:58:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Category.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:58:37.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Food.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:58:20.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:39:24.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DannyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "RelativeDocumentMoniker": "Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "RelativeToolTip": "Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:35:06.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
+              "RelativeToolTip": "Final-Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:35:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Final-Project\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Final-Project\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-12T13:34:38.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Final-Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Final-Project\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T10:26:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-12T13:37:15.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T13:37:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:36:32.443Z"
+              "WhenOpened": "2025-06-12T13:36:32.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Program.cs",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
-              "RelativeToolTip": "Final-Project\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:35:05.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Final-Project\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Final-Project\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-12T13:34:38.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Final-Project\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAJwAAAAAAAAAAAAAALAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T13:15:58.036Z"
+              "WhenOpened": "2025-06-12T13:15:58.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Final-Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwE8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwE8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-12T13:20:40.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Final-Project\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Final-Project\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T13:20:30.135Z"
+              "WhenOpened": "2025-06-12T13:37:48.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Final-Project\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Azer\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Final-Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:15:43.145Z"
+              "WhenOpened": "2025-06-12T13:15:43.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Final-Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Final-Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T13:20:30.135Z",
+              "EditorCaption": ""
             }
           ]
         }

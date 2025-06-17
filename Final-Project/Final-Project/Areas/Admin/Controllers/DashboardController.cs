@@ -1,12 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Final_Project.Areas.Admin.Controllers
+namespace Final_Project.Areas.Admin.Controllers;
+[Area("Admin")]
+public class DashboardController : Controller
 {
-    public class DashboardController : Controller
+    public IActionResult Index()
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        return View();
     }
 }
