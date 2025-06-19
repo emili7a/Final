@@ -532,3 +532,16 @@ C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\Fl
 C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\ClassTime\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.sourcelink.json
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.dll
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\refint\Final-Project.dll
+C:\Users\DELL\Desktop\Final\Final-Project\Final-Project\obj\Debug\net8.0\Final-Project.pdb

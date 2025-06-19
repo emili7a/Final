@@ -2,7 +2,12 @@
 {
     public class CommentCreateVM
     {
-        public string Text { get; set; }
-        public int BlogId { get; set; }
+            public int FoodId { get; set; }
+
+            public string UserName { get; set; }
+            public string Message { get; set; }
+            public int Rating { get; set; }   
+        
+
     }
 }

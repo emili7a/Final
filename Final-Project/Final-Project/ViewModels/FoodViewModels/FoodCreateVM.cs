@@ -1,18 +1,23 @@
-﻿namespace Final_Project.ViewModels.FoodViewModels
+﻿using Final_Project.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace Final_Project.ViewModels.FoodViewModels
 {
     public class FoodCreateVM
     {
-       
-            public string? Name { get; set; }
-            public string? Description { get; set; }
-            public decimal Price { get; set; }
-            public bool IsAvailable { get; set; }
-         
-            public int CategoryId { get; set; }
-            public int Porsion { get; set; }
-            public string? ImageUrl { get; set; }
-        
+        public string Name { get; set; } = null!;
+        public string Description { get; set; } = null!;
+        public decimal Price { get; set; }
+        public IFormFile ImageFile { get; set; } = null!;
+        public int CategoryId { get; set; }
 
+        public List<int> SelectedIngredientIds { get; set; } = new();
 
+        public List<SelectListItem> Categories { get; set; } = new();
+        public List<IngredientCheckboxItem> Ingredients { get; set; } = new();
     }
+
+
+
+}
 }
