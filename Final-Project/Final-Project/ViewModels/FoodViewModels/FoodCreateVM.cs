@@ -8,12 +8,10 @@ namespace Final_Project.ViewModels.FoodViewModels
         public string Name { get; set; } = null!;
         public string Description { get; set; } = null!;
         public decimal Price { get; set; }
-        public IFormFile ImageFile { get; set; } = null!;
+        public string ImageUrl { get; set; } = null!;
         public int CategoryId { get; set; }
 
         public List<int> SelectedIngredientIds { get; set; } = new();
-
-        public List<SelectListItem> Categories { get; set; } = new();
         public List<IngredientCheckboxItem> Ingredients { get; set; } = new();
     }
 

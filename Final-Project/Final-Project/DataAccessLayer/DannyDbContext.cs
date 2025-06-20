@@ -14,5 +14,8 @@ namespace Final_Project.DataAccessLayer
         public DbSet<Category> Categories { get; set; }
         public DbSet<CartItem> CartItems { get; set; }
         public DbSet<Comment> Comments { get; set; }
+        public object Contacts { get; internal set; }
+        public IEnumerable<object> Ingredients { get; internal set; }
+        public object Customers { get; internal set; }
     }
 }

@@ -3,12 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\customerviewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\customerviewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\validators\\cartitemvalidators\\cartitemcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\cartitemvalidators\\cartitemcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\cartitemviewmodels\\cartitemcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\cartitemviewmodels\\cartitemcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\validators\\contactvalidators\\contactcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\contactvalidators\\contactcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\validators\\foodvalidators\\foodupdatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\foodvalidators\\foodupdatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\validators\\foodvalidators\\foodcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\foodvalidators\\foodcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\ingredientcheckboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\ingredientcheckboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\commentviewmodels\\commentadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\commentviewmodels\\commentadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\dataaccesslayer\\dannydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\dataaccesslayer\\dannydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\contactviewmodels\\contactcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\contactviewmodels\\contactcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\foodingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,32 +119,8 @@
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\commentviewmodels\\commentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\ingredientcheckboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\ingredientcheckboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\foodviewmodels\\foodupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\foodviewmodels\\foodupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,26 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\orderviewmodels\\ordercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\viewmodels\\orderviewmodels\\ordercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\validators\\foodvalidators\\foodupdatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\foodvalidators\\foodupdatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\validators\\foodvalidators\\foodcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\validators\\foodvalidators\\foodcreatevmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\viewmodels\\categoryviewmodels\\categorygetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,10 +199,6 @@
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\dataaccesslayer\\dannydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\dataaccesslayer\\dannydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -169,10 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|solutionrelative:final-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC0BEF2-1CE4-4184-A3CE-F1B2693A2ED5}|Final-Project\\Final-Project.csproj|c:\\users\\dell\\desktop\\final\\final-project\\final-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -210,288 +246,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 27,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CustomerViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CustomerViewModels\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CustomerViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\CustomerViewModels\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:25:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Final-Project\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:23:01.035Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Contact.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T16:48:04.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Comment.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "Final-Project\\Controllers\\CartItemController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAwA8AAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:59:43.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CommentCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
-              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
-              "RelativeToolTip": "Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T12:46:47.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Ingredient.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Ingredient.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Ingredient.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Ingredient.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Ingredient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:58:28.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FoodIngredient.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\FoodIngredient.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\FoodIngredient.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\FoodIngredient.cs",
-              "RelativeToolTip": "Final-Project\\Models\\FoodIngredient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:56:56.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
-              "RelativeToolTip": "Final-Project\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:35:05.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Customer.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:29:07.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FoodGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
-              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
-              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T11:39:11.52Z",
+              "WhenOpened": "2025-06-20T00:12:57.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FoodCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
-              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
-              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Title": "CartItemCreateVMValidator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\CartItemValidators\\CartItemCreateVMValidator.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Validators\\CartItemValidators\\CartItemCreateVMValidator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\CartItemValidators\\CartItemCreateVMValidator.cs",
+              "RelativeToolTip": "Final-Project\\Validators\\CartItemValidators\\CartItemCreateVMValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T11:38:59.98Z",
+              "WhenOpened": "2025-06-20T00:11:19.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Food.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Food.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Food.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Food.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAxwAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:58:20.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IngredientCheckboxItem.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
-              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
-              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T16:31:59.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PaymentMethod.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\PaymentMethod.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Enums\\PaymentMethod.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\PaymentMethod.cs",
-              "RelativeToolTip": "Final-Project\\Enums\\PaymentMethod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:40:12.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Payment.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Payment.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:40:37.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FoodUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
-              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
-              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T11:39:31.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "Final-Project\\Enums\\OrderStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:34:35.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\OrderItem.cs",
-              "RelativeToolTip": "Final-Project\\Models\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T14:03:18.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Order.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Order.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAA8wAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T14:02:58.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Final-Project\\Models\\CartItem.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\CartItem.cs",
               "RelativeToolTip": "Final-Project\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T10:58:58.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\AppUser.cs",
-              "RelativeToolTip": "Final-Project\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T11:14:26.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Table.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Table.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Models\\Table.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Table.cs",
-              "RelativeToolTip": "Final-Project\\Models\\Table.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:23:29.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderItemCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
-              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
-              "RelativeToolTip": "Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T14:10:18.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Final-Project\\Models\\Category.cs",
@@ -504,7 +332,411 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Customer.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:29:07.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItemCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CartItemViewModels\\CartItemCreateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CartItemViewModels\\CartItemCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CartItemViewModels\\CartItemCreateVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\CartItemViewModels\\CartItemCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:10:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodUpdateVMValidator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
+              "RelativeToolTip": "Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:50:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactCreateVMValidator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\ContactValidators\\ContactCreateVMValidator.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Validators\\ContactValidators\\ContactCreateVMValidator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\ContactValidators\\ContactCreateVMValidator.cs",
+              "RelativeToolTip": "Final-Project\\Validators\\ContactValidators\\ContactCreateVMValidator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:35:52.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Final-Project\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:14:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FoodCreateVMValidator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
+              "RelativeToolTip": "Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:46:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodUpdateVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:39:31.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:38:59.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IngredientCheckboxItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\IngredientCheckboxItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:31:59.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Final-Project\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAFwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:55:01.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Food.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Food.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:58:20.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Final-Project\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:00:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommentAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentAdminVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CommentViewModels\\CommentAdminVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentAdminVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\CommentViewModels\\CommentAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:48:07.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Final-Project\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:38:12.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "DannyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "RelativeDocumentMoniker": "Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "RelativeToolTip": "Final-Project\\DataAccessLayer\\DannyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:35:06.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Comment.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:59:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Final-Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:15:43.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContactCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\ContactViewModels\\ContactCreateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\ContactViewModels\\ContactCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\ContactViewModels\\ContactCreateVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\ContactViewModels\\ContactCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:33:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Contact.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:48:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\CommentViewModels\\CommentCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:46:47.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:58:28.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FoodIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\FoodIngredient.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\FoodIngredient.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\FoodIngredient.cs",
+              "RelativeToolTip": "Final-Project\\Models\\FoodIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:56:56.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Program.cs",
+              "RelativeToolTip": "Final-Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:35:05.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FoodGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\FoodViewModels\\FoodGetVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:39:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "Final-Project\\Enums\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:40:12.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Payment.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Payment.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:40:37.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Final-Project\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:34:35.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Final-Project\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:03:18.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Order.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:02:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\AppUser.cs",
+              "RelativeToolTip": "Final-Project\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:14:26.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "Final-Project\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Table.cs",
+              "RelativeToolTip": "Final-Project\\Models\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:23:29.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItemCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
+              "RelativeDocumentMoniker": "Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
+              "RelativeToolTip": "Final-Project\\ViewModels\\OrderItemViewModels\\OrderItemCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:10:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "OrderCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\OrderViewModels\\OrderCreateVM.cs",
               "RelativeDocumentMoniker": "Final-Project\\ViewModels\\OrderViewModels\\OrderCreateVM.cs",
@@ -516,67 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FoodCreateVMValidator.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
-              "RelativeToolTip": "Final-Project\\Validators\\FoodValidators\\FoodCreateVMValidator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T11:46:35.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FoodUpdateVMValidator.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
-              "RelativeToolTip": "Final-Project\\Validators\\FoodValidators\\FoodUpdateVMValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T11:50:57.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FoodController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\FoodController.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Controllers\\FoodController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\FoodController.cs",
-              "RelativeToolTip": "Final-Project\\Controllers\\FoodController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T12:55:01.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "Final-Project\\Controllers\\CommentController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T13:00:04.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Final-Project\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T13:14:40.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "CategoryGetVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CategoryViewModels\\CategoryGetVM.cs",
               "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CategoryViewModels\\CategoryGetVM.cs",
@@ -588,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "CategoryUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CategoryViewModels\\CategoryUpdateVM.cs",
               "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CategoryViewModels\\CategoryUpdateVM.cs",
@@ -600,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "CategoryCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
               "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
@@ -612,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "CommentUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentUpdateVM.cs",
               "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CommentViewModels\\CommentUpdateVM.cs",
@@ -624,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "CommentGetVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommentViewModels\\CommentGetVM.cs",
               "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CommentViewModels\\CommentGetVM.cs",
@@ -636,7 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 43,
               "Title": "CommentUpdateVMValidator.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\CommentValidators\\CommentUpdateVMValidator.cs",
               "RelativeDocumentMoniker": "Final-Project\\Validators\\CommentValidators\\CommentUpdateVMValidator.cs",
@@ -648,7 +820,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 42,
               "Title": "CommentCreateVMValidator.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Validators\\CommentValidators\\CommentCreateVMValidator.cs",
               "RelativeDocumentMoniker": "Final-Project\\Validators\\CommentValidators\\CommentCreateVMValidator.cs",
@@ -660,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 47,
               "Title": "BaseVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ViewModels\\CommonVM\\BaseVM.cs",
               "RelativeDocumentMoniker": "Final-Project\\ViewModels\\CommonVM\\BaseVM.cs",
@@ -672,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 58,
               "Title": "20250617112113_Danny.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Migrations\\20250617112113_Danny.cs",
               "RelativeDocumentMoniker": "Final-Project\\Migrations\\20250617112113_Danny.cs",
@@ -684,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\appsettings.json",
               "RelativeDocumentMoniker": "Final-Project\\appsettings.json",
@@ -696,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Final-Project\\Models\\Common\\BaseEntity.cs",
@@ -708,19 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "DannyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\DataAccessLayer\\DannyDbContext.cs",
-              "RelativeDocumentMoniker": "Final-Project\\DataAccessLayer\\DannyDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\DataAccessLayer\\DannyDbContext.cs",
-              "RelativeToolTip": "Final-Project\\DataAccessLayer\\DannyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:35:06.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 48,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Final-Project\\ScaffoldingReadMe.txt",
@@ -732,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 52,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Final-Project\\Properties\\launchSettings.json",
@@ -744,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 53,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -756,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 56,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -768,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 55,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -780,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 51,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\Home\\Index.cshtml",
@@ -792,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\Shared\\_Layout.cshtml",
@@ -804,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 54,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -816,19 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Final-Project\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Final-Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:15:43.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 57,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final\\Final-Project\\Final-Project\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Final-Project\\Views\\_ViewStart.cshtml",

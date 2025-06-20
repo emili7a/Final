@@ -11,7 +11,6 @@ namespace Final_Project.Models
             public string? Message { get; set; }
             public int Rating { get; set; }           
             public DateTime CreatedAt { get; set; } = DateTime.Now;
-        
-
+        public bool IsApproved { get; internal set; }
     }
 }

@@ -1,139 +1,163 @@
 ﻿using Final_Project.DataAccessLayer;
 using Final_Project.Models;
 using Final_Project.ViewModels.FoodViewModels;
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace Final_Project.Controllers
 {
     public class FoodController : Controller
     {
-      
-          private readonly DannyDbContext _context;
+        private readonly DannyDbContext _context;
+        private readonly IValidator<FoodCreateVM> _validator;
 
-            public FoodController(  DannyDbContext context)
-            {
-                _context = context;
-            }
-
-            [HttpGet]
-            public IActionResult Index()
-            {
-                var foods = _context.Foods
-                    .Select(f => new FoodUpdateVM
-                    {
-                        Id = f.Id,
-                        Name = f.Name,
-                        Description = f.Description,
-                        ImageUrl = f.ImageUrl,
-                        IsAvailable = f.IsAvailable,
-                        Porsion=f.Porsion,
-                        CategoryId = f.CategoryId,
-                        Price = f.Price
-                    })
-                    .ToList();
-
-                return View(foods);
-            }
-
-            [HttpGet]
-            public IActionResult Create()
-            {
-                return View();
-            }
-
-            [HttpPost]
-            public IActionResult Create(FoodCreateVM model)
-            {
-                if (!ModelState.IsValid)
-                {
-                    return View(model);
-                }
-
-                var food = new Food
-                {
-                    Name = model.Name,
-                    Description = model.Description,
-                    ImageUrl = model.ImageUrl,
-                    IsAvailable = model.IsAvailable,
-                    Porsion = model.Porsion,
-                    CategoryId = model.CategoryId,
-                    CreatedAt = DateTime.UtcNow
-                };
-                _context.Foods.Add(food);
-                _context.SaveChanges();
-
-                return RedirectToAction("Index");
-
-            }
-
-            [HttpGet]
-            public IActionResult Update(int id)
-            {
-                var food = _context.Foods.Find(id);
-                if (food == null)
-                {
-                    return NotFound();
-                }
-
-                var viewModel = new FoodUpdateVM
-                {
-                    Id = food.Id,
-                    Name = food.Name,
-                    Description = food.Description,
-                    ImageUrl = food.ImageUrl,
-                    IsAvailable = food.IsAvailable,
-                    Porsion = food.Porsion,
-                    CategoryId = food.CategoryId,
-                    Price = food.Price
-                };
-                return View(viewModel);
-            }
-
-            [HttpPost]
-            public IActionResult Update(FoodUpdateVM model)
-            {
-                if (!ModelState.IsValid)
-                {
-                    return View(model);
-                }
-
-                var food = _context.Foods.Find(model.Id);
-                if (food == null)
-                {
-                    return NotFound();
-                }
-
-                food.Name = model.Name;
-                food.Description = model.Description;
-                food.ImageUrl = model.ImageUrl;
-                food.IsAvailable = model.IsAvailable;
-                food.Porsion = model.Porsion;
-                food.CategoryId = model.CategoryId;
-                food.Price = model.Price;
-
-                food.UpdatedAt = DateTime.UtcNow;
-
-                _context.SaveChanges();
-
-                return RedirectToAction("Index");
-
-            }
-
-            [HttpGet]
-            public IActionResult Delete(int id)
-            {
-                var food = _context.Foods.Find(id);
-                if (food == null)
-                {
-                    return NotFound();
-                }
-
-                _context.Foods.Remove(food);
-                _context.SaveChanges();
-
-                return RedirectToAction("Index");
-
-            }
+        public FoodController(DannyDbContext context, IValidator<FoodCreateVM> validator)
+        {
+            _context = context;
+            _validator = validator;
         }
 
+        
+        public IActionResult Index()
+        {
+            var foods = _context.Foods
+                .Include(f => f.Category)
+                .Include(f => f.FoodIngredients)
+                    .ThenInclude(fi => fi.Ingredient)
+                .ToList();
+
+            return View(foods);
+        }
+
+        
+        public IActionResult Create()
+        {
+            var model = new FoodCreateVM
+            {
+                Ingredients = _context.Ingredients.Select(i => new IngredientCheckboxItem
+                {
+                    Id = i.Id,
+                    Name = i.Name,
+                    IsSelected = false
+                }).ToList()
+            };
+
+            ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Name");
+            return View(model);
+        }
+
+        
+        [HttpPost]
+        public async Task<IActionResult> Create(FoodCreateVM model)
+        {
+            var result = await _validator.ValidateAsync(model);
+            if (!result.IsValid)
+            {
+                foreach (var error in result.Errors)
+                    ModelState.AddModelError(error.PropertyName, error.ErrorMessage);
+
+                model.Ingredients = _context.Ingredients.Select(i => new IngredientCheckboxItem
+                {
+                    Id = i.Id,
+                    Name = i.Name,
+                    IsSelected = model.SelectedIngredientIds.Contains(i.Id)
+                }).ToList();
+
+                ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Name");
+                return View(model);
+            }
+
+            var food = new Food
+            {
+                Name = model.Name,
+                Description = model.Description,
+                Price = model.Price,
+                ImageUrl = model.ImageUrl,
+                CategoryId = model.CategoryId,
+                IsAvailable = true,
+                FoodIngredients = model.SelectedIngredientIds.Select(id => new FoodIngredient
+                {
+                    IngredientId = id
+                }).ToList()
+            };
+
+            _context.Foods.Add(food);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+        }
+
+        
+        public IActionResult Update(int id)
+        {
+            var food = _context.Foods
+                .Include(f => f.FoodIngredients)
+                .FirstOrDefault(f => f.Id == id);
+
+            if (food == null) return NotFound();
+
+            var model = new FoodUpdateVM
+            {
+                Id = food.Id,
+                Name = food.Name,
+                Description = food.Description,
+                Price = food.Price,
+                ImageUrl = food.ImageUrl,
+                CategoryId = food.CategoryId,
+                SelectedIngredientIds = food.FoodIngredients.Select(fi => fi.IngredientId).ToList(),
+                Ingredients = _context.Ingredients.Select(i => new IngredientCheckboxItem
+                {
+                    Id = i.Id,
+                    Name = i.Name,
+                    IsSelected = food.FoodIngredients.Any(fi => fi.IngredientId == i.Id)
+                }).ToList()
+            };
+
+            ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "Name", food.CategoryId);
+            return View(model);
+        }
+
+        
+        [HttpPost]
+        public async Task<IActionResult> Update(FoodUpdateVM model)
+        {
+            var food = _context.Foods
+                .Include(f => f.FoodIngredients)
+                .FirstOrDefault(f => f.Id == model.Id);
+
+            if (food == null) return NotFound();
+
+            food.Name = model.Name;
+            food.Description = model.Description;
+            food.Price = model.Price;
+            food.ImageUrl = model.ImageUrl;
+            food.CategoryId = model.CategoryId;
+
+            
+            food.FoodIngredients.Clear();
+            food.FoodIngredients = model.SelectedIngredientIds.Select(id => new FoodIngredient
+            {
+                IngredientId = id
+            }).ToList();
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
+
+        
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var food = await _context.Foods.FindAsync(id);
+            if (food == null) return NotFound();
+
+            _context.Foods.Remove(food);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
     }
+
+
+}

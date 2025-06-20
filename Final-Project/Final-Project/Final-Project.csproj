@@ -8,9 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ViewModels\CartItemViewVM\**" />
+    <Content Remove="ViewModels\CartItemViewVM\**" />
+    <EmbeddedResource Remove="ViewModels\CartItemViewVM\**" />
+    <None Remove="ViewModels\CartItemViewVM\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
-    <Folder Include="ViewModels\CartItemViewVM\" />
+    <Folder Include="Validators\CustomerValidators\" />
   </ItemGroup>
 
   <ItemGroup>
